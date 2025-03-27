@@ -1,9 +1,9 @@
 import { View, Text, StyleSheet } from 'react-native'
 
-export default function Login() {
+export default function Profile() {
   return (
     <View style={styles.container}>
-      <Text> Pagina Login</Text>
+      <Text> Pagina Perfil </Text>
     </View>
   )
 }

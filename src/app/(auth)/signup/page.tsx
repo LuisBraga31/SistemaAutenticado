@@ -1,9 +1,9 @@
 import { View, Text, StyleSheet } from 'react-native'
 
-export default function Login() {
+export default function Signup() {
   return (
     <View style={styles.container}>
-      <Text> Pagina Login</Text>
+      <Text>pagina cadastro</Text>
     </View>
   )
 }
